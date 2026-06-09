@@ -1,1 +1,105 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.113243,39.055185]},"properties":{"feature_name":"dukMéʔem wáťa","feature_class":"Stream","county_name":"El Dorado","map_name":"Meeks Bay","rop_renaming_former_name":"General Creek","rop_renaming_park_uinit":"Ed Z'Berg Sugar Pine Point SP","rop_renaming_park_district":"Sierra","rop_renaming_county":"El Dorado","rop_renaming_new_name":"dukMéʔem wáťa","rop_renaming_meaning":"Wave Creek","rop_renaming_tribal_partner":"Washoe Tribe of Nevada & California","image":"https://raw.githubusercontent.com/cwilmott/n183/refs/heads/main/assets/images/dukemewata-creek.jpeg"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.884677,38.958935]},"properties":{"feature_name":"Mani’pa Gulch","feature_class":"Valley","county_name":"Placer","map_name":"Greenwood","rop_renaming_former_name":"Sq Gulch","rop_renaming_park_uinit":"Auburn SRA","rop_renaming_park_district":"Gold Fields","rop_renaming_county":"Placer","rop_renaming_new_name":"Manzanita (Mani'pa) Gulch","rop_renaming_meaning":"Manzanita","rop_renaming_tribal_partner":"Colfax-Todds Valley Consolidated Tribes of the Maidu & Miwok Colfax Rancheria"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.27349,38.265486]},"properties":{"feature_name":"Oak Hollow","feature_class":"Valley","county_name":"Tuolumne","map_name":"Dorrington","rop_renaming_former_name":"Sq Hollow","rop_renaming_park_uinit":"Calaveras Big Trees SP","rop_renaming_park_district":"Central Valley","rop_renaming_county":"Calaveras","rop_renaming_new_name":"Oak Hollow","rop_renaming_meaning":"","rop_renaming_tribal_partner":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.577462,32.981619]},"properties":{"feature_name":"Kwettap ’Ekwii Emak","feature_class":"Stream","county_name":"San Diego","map_name":"Cuyamaca Peak","rop_renaming_former_name":"Little Stonewall Creek","rop_renaming_park_uinit":"Cuyamaca Rancho SP","rop_renaming_park_district":"Colorado Desert","rop_renaming_county":"San Diego","rop_renaming_new_name":"Kwettap ‘Ekwii Emak","rop_renaming_meaning":"","rop_renaming_tribal_partner":"Kumeyaay Diegueño Land Conservancy","image":"https://raw.githubusercontent.com/cwilmott/n183/refs/heads/main/assets/images/little-stonewall-peak.jpeg"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.553526,32.933128]},"properties":{"feature_name":"Kwettap Cush-pii","feature_class":"Stream","county_name":"San Diego","map_name":"Cuyamaca Peak","rop_renaming_former_name":"Stonewall Creek","rop_renaming_park_uinit":"Cuyamaca Rancho SP","rop_renaming_park_district":"Colorado Desert","rop_renaming_county":"San Diego","rop_renaming_new_name":"Cush-pii Kwettap","rop_renaming_meaning":"","rop_renaming_tribal_partner":"Kumeyaay Diegueño Land Conservancy"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.311593,32.953792]},"properties":{"feature_name":"Mat Kwa’rar Nemaaw","feature_class":"Valley","county_name":"San Diego","map_name":"Agua Caliente Springs","rop_renaming_former_name":"Sq Canyon","rop_renaming_park_uinit":"Anza-Borrego Desert SP","rop_renaming_park_district":"Colorado Desert","rop_renaming_county":"San Diego","rop_renaming_new_name":"Mat Kwa'rar Nemaaw","rop_renaming_meaning":"Grandmother canyon","rop_renaming_tribal_partner":"Kumeyaay Diegueño Land Conservancy"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.159515,41.135957]},"properties":{"feature_name":"Sue-meg Point","feature_class":"Cape","county_name":"Humboldt","map_name":"Trinidad OE N","rop_renaming_former_name":"Patricks Point","rop_renaming_park_uinit":"Sue-meg SP","rop_renaming_park_district":"North Coast Redwoods","rop_renaming_county":"Humboldt","rop_renaming_new_name":"Sue-meg Point","rop_renaming_meaning":"Traditional name of feature","rop_renaming_tribal_partner":"The Yurok Tribe","image":"https://raw.githubusercontent.com/cwilmott/n183/refs/heads/main/assets/images/PatricksPtStatePark.jpg"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.115295,33.177405]},"properties":{"feature_name":"Mat Puy Nah Achhuukaayp","feature_class":"Summit","county_name":"San Diego","map_name":"Shell Reef","rop_renaming_former_name":"Sq Peak","rop_renaming_park_uinit":"Ocotillo Wells SVRA","rop_renaming_park_district":"Ocotillo Wells","rop_renaming_county":"San Diego","rop_renaming_new_name":"Mat Puy Nah Achhuukaapy","rop_renaming_meaning":"the place over there where we go to trade","rop_renaming_tribal_partner":"Kumeyaay Diegueño Land Conservancy"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.017833,40.317417]},"properties":{"feature_name":"Grasshopper Creek Ridge","feature_class":"Ridge","county_name":"Humboldt","map_name":"Bull Creek","rop_renaming_former_name":"Sq Creek Ridge","rop_renaming_park_uinit":"Humboldt Redwoods SP","rop_renaming_park_district":"North Coast Redwoods","rop_renaming_county":"Humboldt","rop_renaming_new_name":"Grasshopper Creek Ridge","rop_renaming_meaning":"","rop_renaming_tribal_partner":"Bear River Band of Rohnerville Rancheria"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.56471,32.965544]},"properties":{"feature_name":"Cush-pii ’Estik","feature_class":"Summit","county_name":"San Diego","map_name":"Cuyamaca Peak","rop_renaming_former_name":"Little Stonewall Peak","rop_renaming_park_uinit":"Cuyamaca Rancho SP","rop_renaming_park_district":"Colorado Desert","rop_renaming_county":"San Diego","rop_renaming_new_name":"Cush-pii 'Estik","rop_renaming_meaning":"","rop_renaming_tribal_partner":"Kumeyaay Diegueño Land Conservancy"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.113243,
+          39.0551853
+        ]
+      },
+      "properties": {
+        "feature_name": "dukMéʔem wáťa",
+        "feature_class": "Stream",
+        "county_name": "El Dorado",
+        "map_name": "Meeks Bay",
+        "rop_renaming_former_name": "General Creek",
+        "rop_renaming_park_uinit": "Ed Z'Berg Sugar Pine Point SP",
+        "rop_renaming_park_district": "Sierra",
+        "rop_renaming_county": "El Dorado",
+        "rop_renaming_new_name": "dukMéʔem wáťa",
+        "rop_renaming_meaning": "Wave Creek",
+        "rop_renaming_tribal_partner": "Washoe Tribe of Nevada & California",
+        "image": "https://raw.githubusercontent.com/cwilmott/n183/refs/heads/main/assets/images/dukemewata-creek.jpeg",
+        "image_caption": "An image of dukMéʔem wáťa creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8846772,
+          38.9589354
+        ]
+      },
+      "properties": {
+        "feature_name": "Mani’pa Gulch",
+        "feature_class": "Valley",
+        "county_name": "Placer",
+        "map_name": "Greenwood",
+        "rop_renaming_former_name": "Sq Gulch",
+        "rop_renaming_park_uinit": "Auburn SRA",
+        "rop_renaming_park_district": "Gold Fields",
+        "rop_renaming_county": "Placer",
+        "rop_renaming_new_name": "Manzanita (Mani'pa) Gulch",
+        "rop_renaming_meaning": "Manzanita",
+        "rop_renaming_tribal_partner": "Colfax-Todds Valley Consolidated Tribes of the Maidu & Miwok Colfax Rancheria",
+        "image": "https://raw.githubusercontent.com/cwilmott/n183/refs/heads/main/assets/images/manipa_gulch.jpeg",
+        "image_caption": "Mani'Pa Gulch from the top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.577462,
+          32.9816186
+        ]
+      },
+      "properties": {
+        "feature_name": "Kwettap ’Ekwii Emak",
+        "feature_class": "Stream",
+        "county_name": "San Diego",
+        "map_name": "Cuyamaca Peak",
+        "rop_renaming_former_name": "Little Stonewall Creek",
+        "rop_renaming_park_uinit": "Cuyamaca Rancho SP",
+        "rop_renaming_park_district": "Colorado Desert",
+        "rop_renaming_county": "San Diego",
+        "rop_renaming_new_name": "Kwettap ‘Ekwii Emak",
+        "rop_renaming_meaning": "",
+        "rop_renaming_tribal_partner": "Kumeyaay Diegueño Land Conservancy",
+        "image": "https://raw.githubusercontent.com/cwilmott/n183/refs/heads/main/assets/images/little-stonewall-peak.jpeg",
+        "image_caption": "Little Stonewall Peak on a slightly cloudy day"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1595155,
+          41.1359568
+        ]
+      },
+      "properties": {
+        "feature_name": "Sue-meg Point",
+        "feature_class": "Cape",
+        "county_name": "Humboldt",
+        "map_name": "Trinidad OE N",
+        "rop_renaming_former_name": "Patricks Point",
+        "rop_renaming_park_uinit": "Sue-meg SP",
+        "rop_renaming_park_district": "North Coast Redwoods",
+        "rop_renaming_county": "Humboldt",
+        "rop_renaming_new_name": "Sue-meg Point",
+        "rop_renaming_meaning": "Traditional name of feature",
+        "rop_renaming_tribal_partner": "The Yurok Tribe",
+        "image": "https://raw.githubusercontent.com/cwilmott/n183/refs/heads/main/assets/images/PatricksPtStatePark.jpg",
+        "image_caption": "Former Patrics Point Sign"
+      }
+    }
+  ]
+}
